@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3750f45c844123341b9a777a96cb1eca
+guid: cd947491a13509945aa1b644f9db3ef2
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -143,7 +143,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Idle (32x32)_0
+      name: NinjaFrog Idle (32x32)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -151,20 +151,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 146a1155c5b2d594ea1668ce48f5b5f2
+      spriteID: fdba417bda9db96418fec24b87dfcdb4
       internalID: -6367560908665664636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_1
+      name: NinjaFrog Idle (32x32)_1
       rect:
         serializedVersion: 2
         x: 32
@@ -172,20 +172,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8216d7d8ce0489d4f8091d116348bfa7
+      spriteID: dff2ac8bbbbbef045bce80b611bf86ea
       internalID: -6056987297122131021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_2
+      name: NinjaFrog Idle (32x32)_2
       rect:
         serializedVersion: 2
         x: 64
@@ -193,20 +193,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8728693d3898974b94e3893473be678
+      spriteID: 6abbb4e80f5cd914cbc4c652387f530d
       internalID: 8416797952724722639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_3
+      name: NinjaFrog Idle (32x32)_3
       rect:
         serializedVersion: 2
         x: 96
@@ -214,20 +214,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2ea283d333cfe343ae8ac5ca48ae561
+      spriteID: 03545ecd744bf9144a3520ccaa395173
       internalID: 4883129791460916795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_4
+      name: NinjaFrog Idle (32x32)_4
       rect:
         serializedVersion: 2
         x: 128
@@ -235,20 +235,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08c1f80ac3021bb49af2d7d46fb70e51
+      spriteID: 9dab0c7f6bce7d746999a6ee7b7e7a86
       internalID: 4278371960119211202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_5
+      name: NinjaFrog Idle (32x32)_5
       rect:
         serializedVersion: 2
         x: 160
@@ -256,20 +256,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2afa5ea29eadb3b4ba1ad947b8fa1f75
+      spriteID: 08c1d51bd39cc084a8a46696b37c2c1a
       internalID: 8644832591467991550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_6
+      name: NinjaFrog Idle (32x32)_6
       rect:
         serializedVersion: 2
         x: 192
@@ -277,20 +277,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b231581d8a558742a4273b45cb40a67
+      spriteID: 2ebed70e71f4e0b4382382ef008a5569
       internalID: -7152759390613953277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_7
+      name: NinjaFrog Idle (32x32)_7
       rect:
         serializedVersion: 2
         x: 224
@@ -298,20 +298,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dcbbb07ed54b1de4f8729a7b92490cca
+      spriteID: 741320b45cd7f6e46af51b7f6082dffd
       internalID: 6456874251884481089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_8
+      name: NinjaFrog Idle (32x32)_8
       rect:
         serializedVersion: 2
         x: 256
@@ -319,20 +319,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ad7e41aad44c5145ba3c6503c9ac7ec
+      spriteID: 3fb80a1d7c646004cabe582d26f9282d
       internalID: -2526832996998184344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_9
+      name: NinjaFrog Idle (32x32)_9
       rect:
         serializedVersion: 2
         x: 288
@@ -340,20 +340,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c6a46dfe260f5049b23b279d17f8f47
+      spriteID: 1d30c0f1cb4422f4b9056809c97e8e4c
       internalID: 4392827059107796345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle (32x32)_10
+      name: NinjaFrog Idle (32x32)_10
       rect:
         serializedVersion: 2
         x: 320
@@ -361,13 +361,13 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34205a3a850004e4ba435c38a3a78350
+      spriteID: 1f696fef2f42a7e4f9e60ed5befacc9d
       internalID: -1363835404106015672
       vertices: []
       indices: 
@@ -384,17 +384,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Idle (32x32)_0: -6367560908665664636
-      Idle (32x32)_1: -6056987297122131021
-      Idle (32x32)_10: -1363835404106015672
-      Idle (32x32)_2: 8416797952724722639
-      Idle (32x32)_3: 4883129791460916795
-      Idle (32x32)_4: 4278371960119211202
-      Idle (32x32)_5: 8644832591467991550
-      Idle (32x32)_6: -7152759390613953277
-      Idle (32x32)_7: 6456874251884481089
-      Idle (32x32)_8: -2526832996998184344
-      Idle (32x32)_9: 4392827059107796345
+      NinjaFrog Idle (32x32)_0: -6367560908665664636
+      NinjaFrog Idle (32x32)_1: -6056987297122131021
+      NinjaFrog Idle (32x32)_10: -1363835404106015672
+      NinjaFrog Idle (32x32)_2: 8416797952724722639
+      NinjaFrog Idle (32x32)_3: 4883129791460916795
+      NinjaFrog Idle (32x32)_4: 4278371960119211202
+      NinjaFrog Idle (32x32)_5: 8644832591467991550
+      NinjaFrog Idle (32x32)_6: -7152759390613953277
+      NinjaFrog Idle (32x32)_7: 6456874251884481089
+      NinjaFrog Idle (32x32)_8: -2526832996998184344
+      NinjaFrog Idle (32x32)_9: 4392827059107796345
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
